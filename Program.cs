@@ -11,7 +11,8 @@ namespace GroupPoging
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-Console.WriteLine("HALLO IK BEN ARAFAA");
+Console.WriteLine("HALLO IK BEN ARAFA");
+Console.WriteLine("En ik ben Dries.");
 Console.WriteLine("LALATIPSIPO");
             Console.ReadLine();
         }
